@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by following this [Tutorial](https://www.youtube.com/watch?v=khJlrj3Y6Ls).
+
+Checkout live : [HERE](https://sreesairaghava.github.io/covid-19/)
 
 ## Available Scripts
 
