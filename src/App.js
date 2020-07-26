@@ -3,7 +3,7 @@ import { Cards, Chart, CountryPicker } from "./components";
 import styles from "./App.module.css";
 import { fetchData } from "./api/index";
 import coronaImage from "./images/image.png";
-// Adding commit for deployment
+// Adding commit for deployment-2
 class App extends Component {
   state = {
     data: {},
